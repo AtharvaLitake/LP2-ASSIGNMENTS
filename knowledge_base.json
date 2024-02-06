@@ -1,0 +1,96 @@
+{
+  "questions": [
+    {
+      "question": "What is your name chatbot?",
+      "answer": "Hello user , Jarvis Here , What would you like to know about LP2 Lab"
+    },
+    {
+      "question": "Hello Jarvis?",
+      "answer": "Hello user , how can i help you ?"
+    },
+    {
+      "question": "How are you",
+      "answer": "I am good, thanks for asking"
+    },
+    {
+      "question": "How many assignments in LP2 laboratory",
+      "answer": "LP2 has in all 10 assignments , out of which 6 are AI and 4 are cloud computing"
+    },
+    {
+      "question": "Does LP2 has practical examinations",
+      "answer": "Yes , LP2 has 25 mark practical examinations"
+    },
+    {
+      "question": "Does LP2 have Termwork",
+      "answer": "Yes , LP2 has 25 mark term work"
+    },
+    {
+      "question": "What is the room number of LP2 lab for M1",
+      "answer": "M1 BATCH LP2 Laboratory is located at A1 - 314"
+    },
+    {
+      "question": "Who is the lab teacher for M1 LP2 Batch",
+      "answer": "LP2 is taught by Urmila Pawar mam to M1 batch"
+    },
+    {
+      "question": "What is assignment 1 of LP2",
+      "answer": "Implement depth first search algorithm and Breadth First Search algorithm, Use an undirected graph and develop a recursive algorithm for searching all the vertices of a graph or tree data structure."
+    },
+    {
+      "question": "What is assignment 2 of LP2",
+      "answer": "Implement A star Algorithm for any game search problem."
+    },
+    {
+      "question": "What is assignment 3 of LP2",
+      "answer": "Implement Greedy search algorithm for any of the following application: I. Selection Sort II. Minimum Spanning Tree III. Single-Source Shortest Path Problem IV. Job Scheduling Problem V. Prim's Minimal Spanning Tree Algorithm VI. Kruskal's Minimal Spanning Tree Algorithm VII. Dijkstra's Minimal Spanning Tree Algorithm ."
+    },
+    {
+      "question": "What is assignment 4 of LP2",
+      "answer": "Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and Backtracking for n-queens problem or a graph coloring problem."
+    },
+    {
+      "question": "What is assignment 5 of LP2",
+      "answer": "Develop an elementary chatbot for any suitable customer interaction application."
+    },
+    {
+      "question": "What is assignment 6 of LP2",
+      "answer": "Implement any one of the following Expert System I. Information management II. Hospitals and medical facilities III. Help desks management IV. Employee performance evaluation V. Stock market trading VI. Airline scheduling and cargo schedules"
+    },
+    {
+      "question": "What is assignment 7 of LP2",
+      "answer": " Case study on Amazon EC2 and learn about Amazon EC2 web services."
+    },
+    {
+      "question": "What is assignment 8 of LP2",
+      "answer": " Installation and configure Google App Engine."
+    },
+    {
+      "question": "What is assignment 9 of LP2",
+      "answer": ". Creating an Application in SalesForce.com using Apex programming Language."
+    },
+    {
+      "question": "What is assignment 10 of LP2",
+      "answer": "Design and develop custom Application (Mini Project) using Salesforce Cloud."
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello I am Jarvis , your AI Assistant"
+    },
+    {
+      "question": "where is M1 batch room ",
+      "answer": "A1 314"
+    },
+    {
+      "question": "    {",
+      "answer": "      \"question\": \"What is assignment 1 of LP2\","
+    },
+    {
+      "question": "I want to know about LP2",
+      "answer": "Yes , I have all related info , please ask"
+    },
+    {
+      "question": "Who teaches Lp2 to m1 batch",
+      "answer": "Urmila Pawar mam Teaches LP2 ro M! batch"
+    }
+  ]
+}
