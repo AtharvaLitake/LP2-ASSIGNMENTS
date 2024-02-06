@@ -8,7 +8,9 @@ Welcome to the Semester 6 Language Programming 2 (LP2) Assignments Repository. T
 
 2. **Assignment 2: A-star Algorithm for Romania Map Problem**
 
-3. **Assignment 3: Implement 2 algorithms using Greedy Technique - \n 1.Selection Sort \n 2.Prims Algorithm**
+3. **Assignment 3: Implement 2 algorithms using Greedy Technique -** <br> **1.Selection Sort** <br> **2.Prims Algorithm**
+
+4. **Assignment 5: A rule based chatbot**
 
 ## CC Assignments: 
 
